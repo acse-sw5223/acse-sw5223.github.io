@@ -1,12 +1,3 @@
----
-permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
-author_profile: true
-redirect_from: 
-  - /about/
-  - /about.html
----
-
 I am a first-year PhD student in Computer Science at the [University of Massachusetts Amherst](https://www.umass.edu/), being co-advised by Dr. [Madalina Fiterau](https://people.cs.umass.edu/~mfiterau/) at the [Information Fusion](https://groups.cs.umass.edu/infofusion/home/) lab and Dr. [Anna Green](https://sage.cs.umass.edu/author/anna-green/) at the [Sequence Analysis and Genomics (SAGE)](https://sage.cs.umass.edu/) lab.
 
 My research interests are Machine Learning, Computer Vision, and Multimodal Models. I am working on applying these techniques to healthcare and computational biology. Specifically, I am a research assistant funded by NIH on early Alzheimer's Disease forecasting and also working on another project about compound permeability prediction for developing tuberculosis antibiotics.
