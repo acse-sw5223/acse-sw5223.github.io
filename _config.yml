@@ -21,7 +21,7 @@ repository               : "acse-sw5223/acse-sw5223.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "avatar.png"
   name             : "Shiyun WA"
   pronouns         : "he/him"  
   bio              : "CS PhD student at UMass Amherst"
@@ -43,7 +43,7 @@ author:
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
   dribbble         : # Username
-  github           : "acse-sw5223"
+  github           : ""
   kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
