@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Shiyun WA / Personal Website"
+title                    : "Shiyun WA · 瓦师云"
 title_separator          : "-"
 name                     : &name "Shiyun WA"
 description              : &description "CS PhD student at UMass Amherst"
