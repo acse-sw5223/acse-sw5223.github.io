@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a first-year PhD student in Computer Science at the [University of Massachusetts Amherst](https://www.umass.edu/), being co-advised by Dr. [Madalina Fiterau](https://people.cs.umass.edu/~mfiterau/) at the [Information Fusion](https://groups.cs.umass.edu/infofusion/home/) lab and Dr. [Anna Green](https://sage.cs.umass.edu/author/anna-green/) at the [Sequence Analysis and Genomics (SAGE)](https://sage.cs.umass.edu/) lab.
+I am a second-year PhD student in Computer Science at the [University of Massachusetts Amherst](https://www.umass.edu/), being co-advised by Dr. [Madalina Fiterau](https://people.cs.umass.edu/~mfiterau/) at the [Information Fusion](https://groups.cs.umass.edu/infofusion/home/) lab and Dr. [Anna Green](https://sage.cs.umass.edu/author/anna-green/) at the [Sequence Analysis and Genomics (SAGE)](https://sage.cs.umass.edu/) lab.
 
 My research interests are Machine Learning, Computer Vision, and Multimodal Models. I am working on applying these techniques to healthcare and computational biology. Specifically, I am a research assistant funded by NIH R03 Grant on early Alzheimer's Disease forecasting and also working on another project about compound properties prediction for developing antibiotics against tuberculosis.
 
