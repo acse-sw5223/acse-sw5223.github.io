@@ -21,3 +21,12 @@ Before coming to UMass Amherst, I completed my Master’s degree with distinctio
 **2025.01** - Awarded Paul Utgoff Memorial Graduate Scholarship in Machine Learning at UMass Amherst.
 
 **2024.11** - Present a [poster](https://drive.google.com/file/d/1Yeundz3v_aF3I0SL-zGZEYj4sZT6EPJT/view?usp=sharing) at [New England Computer Vision (NECV) Workshop 2024](https://necv2024.github.io/), Yale University, New Haven, CT.
+
+
+---------
+
+<hr>
+
+<!-- Map widget -->
+<script type="text/javascript" id="mapmyvisitors" src="//mapmyvisitors.com/map.js?d=pkMgpgBDgsmfC70jjuebTSbanuS8BOE1u0D0hkZyDeg&cl=ffffff&w=a"></script>
+
