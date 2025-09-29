@@ -28,4 +28,4 @@ Before coming to UMass Amherst, I completed my Master’s degree with distinctio
 <hr>
 
 <!-- Map widget -->
-<script type='text/javascript' id='mapmyvisitors' src='https://mapmyvisitors.com/map.js?cl=ffffff&w=270&t=tt&d=pkMgpgBDgsmfC70jjuebTSbanuS8BOE1u0D0hkZyDeg&co=2d78ad&cmo=3acc3a&cmn=ff5353&ct=ffffff'></script>
+<script type='text/javascript' id='mapmyvisitors' src='https://mapmyvisitors.com/map.js?cl=ffffff&w=600&t=tt&d=pkMgpgBDgsmfC70jjuebTSbanuS8BOE1u0D0hkZyDeg'></script>
