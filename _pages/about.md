@@ -18,6 +18,8 @@ Before coming to UMass Amherst, I completed my Master’s degree with distinctio
 
 # News
 
+**2025.12** - I will be a Machine Learning Research Intern at Biogen in Boston from January to June!
+
 **2025.01** - Awarded Paul Utgoff Memorial Graduate Scholarship in Machine Learning at UMass Amherst.
 
 **2024.11** - Present a [poster](https://drive.google.com/file/d/1Yeundz3v_aF3I0SL-zGZEYj4sZT6EPJT/view?usp=sharing) at [New England Computer Vision (NECV) Workshop 2024](https://necv2024.github.io/), Yale University, New Haven, CT.
