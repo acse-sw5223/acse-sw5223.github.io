@@ -17,8 +17,9 @@ Before coming to UMass Amherst, I completed my Master’s degree with distinctio
 ---------
 
 # News
+**2026.1** — Started internship at [Biogen](https://www.biogen.com/) in Cambridge as a Machine Learning Research Intern (Co-op).
 
-**2025.12** - I will be a Machine Learning Research Intern at Biogen in Boston from January to June!
+**2026.1** - My co-first-author paper, "Mycopermenet-v2: Improved Prediction of Mycomembrane Permeation Using Fusion Noisy Student self-disTillation," has been accepted for publication in [Journal of Chemical Information and Modeling](https://pubs.acs.org/journal/jcisd8). Also accepted for an oral presentation at ACS Spring 2026 ([Machine Learning and AI for Organic Chemistry Session](https://callforabstracts.acs.org/acsspring2026/CINF)).
 
 **2025.01** - Awarded Paul Utgoff Memorial Graduate Scholarship in Machine Learning at UMass Amherst.
 
