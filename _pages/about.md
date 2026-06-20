@@ -17,13 +17,11 @@ Before coming to UMass Amherst, I completed my Master’s degree with distinctio
 ---------
 
 # News
-**2026.5** My work at my internship in Biogen "Advancing Ligand-based Virtual Screening and Molecular Generation with Pretrained Molecular Embedding Distance" is available in [arXiv](https://arxiv.org/abs/2604.24474), also accepted by [ICML 2026 AI4Science](https://openreview.net/forum?id=HbfrCipfNl) workshop.
+**2026.5** My work at my internship in Biogen "**Advancing Ligand-based Virtual Screening and Molecular Generation with Pretrained Molecular Embedding Distance**" is available in [arXiv](https://arxiv.org/abs/2604.24474), also accepted by [ICML 2026 AI4Science](https://openreview.net/forum?id=HbfrCipfNl) workshop.
 
-**2026.3** Our paper "[Mycopermenet-v2: Improved Prediction of Mycomembrane Permeation Using Fusion Noisy Student self-disTillation](https://pubs.acs.org/doi/10.1021/acs.jcim.5c02435)" has been published. All the data, code, and pretrained checkpoints are available in our [GitHub repo](https://github.com/SAGE-Lab-UMass/MycoPermeNet-v2-pub). Also presented this work in ACS Spring 2026, Machine Learning and AI for Organic Chemistry session.
+**2026.3** Our paper "**Mycopermenet-v2: Improved Prediction of Mycomembrane Permeation Using Fusion Noisy Student self-disTillation**" has been [published](https://pubs.acs.org/doi/10.1021/acs.jcim.5c02435). All the data, code, and pretrained checkpoints are available in our [GitHub repo](https://github.com/SAGE-Lab-UMass/MycoPermeNet-v2-pub). Also presented this work in ACS Spring 2026, Machine Learning and AI for Organic Chemistry session.
 
 **2026.1** — Started internship at [Biogen](https://www.biogen.com/) in Cambridge as a Machine Learning Research Intern (Co-op).
-
-**2026.1** - My co-first-author paper, "Mycopermenet-v2: Improved Prediction of Mycomembrane Permeation Using Fusion Noisy Student self-disTillation," has been accepted for publication in [Journal of Chemical Information and Modeling](https://pubs.acs.org/journal/jcisd8). Also accepted for an oral presentation at ACS Spring 2026 ([Machine Learning and AI for Organic Chemistry Session](https://callforabstracts.acs.org/acsspring2026/CINF)).
 
 **2025.01** - Awarded Paul Utgoff Memorial Graduate Scholarship in Machine Learning at UMass Amherst.
 
