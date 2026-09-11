@@ -16,9 +16,9 @@ My research develops **general machine-learning methods for scientific discovery
     </div>
     <p class="project-card__links"><a href="https://arxiv.org/abs/2609.00189">Paper <i class="fas fa-external-link-alt" aria-hidden="true"></i></a></p>
   </div>
-  <p>EW-SFT is a reward-guided optimization framework for adapting molecular generators without deriving a separate trajectory-level reinforcement-learning objective for each architecture. It maintains a rolling buffer of genetically evolved, high-scoring molecules and fine-tunes each generator with its native pretraining loss.</p>
+  <p>EW-SFT is a reward-guided optimization method for adapting molecular generators without deriving a separate trajectory-level reinforcement-learning objective for each architecture. It maintains a rolling elite buffer of genetically evolved, high-scoring molecules and fine-tunes each generator with its native pretraining loss.</p>
   <ul>
-    <li><strong>General method:</strong> uses elite selection and native-loss adaptation across autoregressive, masked-diffusion, and discrete-flow molecular generators.</li>
+    <li><strong>General method:</strong> uses reward-guided elite selection and native-loss adaptation across autoregressive, masked-diffusion, and discrete-flow molecular generators.</li>
     <li><strong>Constrained generation:</strong> evaluated on de novo design, motif extension, and linker design with 3D-shape and 2D-similarity objectives, as well as the PMO benchmark.</li>
   </ul>
   <figure class="project-card__figure">
@@ -37,17 +37,17 @@ My research develops **general machine-learning methods for scientific discovery
     </div>
     <p class="project-card__links"><a href="https://arxiv.org/abs/2604.24474">Paper <i class="fas fa-external-link-alt" aria-hidden="true"></i></a> <span aria-hidden="true">·</span> <a href="https://openreview.net/forum?id=HbfrCipfNl">ICML AI4Science <i class="fas fa-external-link-alt" aria-hidden="true"></i></a></p>
   </div>
-  <p>PED is a training-free molecular similarity signal computed from the representations of pretrained molecular foundation models. It provides a shared representation-space measure for ligand-based virtual screening and for steering molecular generation.</p>
+  <p>PED is a training-free molecular similarity measurement computed from the representations of pretrained molecular foundation models. It provides a shared representation-space measure for ligand-based virtual screening and for steering molecular generation.</p>
   <ul>
     <li><strong>Representation learning for screening:</strong> ranks candidate molecules using distances from pretrained molecular language, diffusion, graph-Transformer, and multimodal models.</li>
-    <li><strong>Reward-guided generation:</strong> uses embedding distance as a reward signal for SMILES-based and synthesizable molecular generation, with evaluation of retrieval quality, sample efficiency, diversity, drug-likeness, and predicted binding affinity.</li>
+    <li><strong>Reward-guided generation:</strong> uses embedding distance as a reward signal for SMILES-based and synthesizable molecular generation, with evaluation of retrieval quality, sample efficiency, diversity, drug-likeness, and model-predicted binding affinity.</li>
   </ul>
   <figure class="project-card__figure">
     <a href="{{ base_path }}/images/PED-Main.pdf" aria-label="Open the PED workflow figure as a PDF">
       <img src="{{ base_path }}/images/projects/ped-workflow.png" alt="Pretrained Embedding Distance workflow connecting virtual screening and reinforcement-learning molecular generation, comparing traditional molecular similarity with distances in pretrained molecular-model embeddings.">
     </a>
-    <figcaption>Pretrained embedding distance connects molecular similarity, ligand-based ranking, and reward-guided molecular generation.</figcaption>
+    <figcaption>Pretrained embedding distance connects molecular similarity, ligand-based virtual screening, and reward-guided molecular generation.</figcaption>
   </figure>
 </div>
 
-<p class="project-note">For my complete publication record, please see my <a href="{{ base_path }}/publications/">publications</a> and <a href="{{ site.author.googlescholar }}">Google Scholar profile</a>.</p>
+<p class="project-note">For my complete publication record, please see my <a href="{{ site.author.googlescholar }}">Google Scholar profile</a>.</p>

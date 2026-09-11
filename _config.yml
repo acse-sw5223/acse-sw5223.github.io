@@ -8,9 +8,9 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Shiyun WA · 瓦师云"
+title                    : "Shiyun Wa · 瓦师云"
 title_separator          : "-"
-name                     : &name "Shiyun WA"
+name                     : &name "Shiyun Wa"
 description              : &description "CS Ph.D. student working on machine learning for scientific discovery"
 url                      : https://acse-sw5223.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -22,7 +22,7 @@ repository               : "acse-sw5223/acse-sw5223.github.io"
 author:
   # Biographic information
   avatar           : "avatar.png"
-  name             : "Shiyun WA"
+  name             : "Shiyun Wa"
   pronouns         : "he/him"  
   bio              : "CS Ph.D. student<br>Machine Learning for Scientific Discovery"
   location         : "Amherst, MA"
