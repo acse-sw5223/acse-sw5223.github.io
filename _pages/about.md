@@ -14,6 +14,8 @@ My research develops machine-learning methods for scientific discovery, with mol
 
 More broadly, I am interested in developing robust and transferable learning methods under realistic scientific constraints, including limited labels, heterogeneous data modalities, expensive evaluation oracles, and the need to generalize across tasks. I also work on multimodal representation learning for biomedical forecasting and healthcare applications.
 
+My current work is highlighted on the [Selected Projects]({{ base_path }}/projects/) page.
+
 Before coming to UMass Amherst, I completed my Master’s degree with distinction in Applied Computational Science and Engineering from [Imperial College London](https://www.imperial.ac.uk/) in 2024. I completed my master's thesis, "Hybrid CNN with Multimodal Data for Early Alzheimer's Disease Forecasting," with the supervision of Dr. [Madalina Fiterau](https://people.cs.umass.edu/~mfiterau/) and Dr. [James Percival](https://jrper.github.io/). I obtained a B.E. degree with distinction in Computer Science and Technology at [China Agricultural University](https://en.cau.edu.cn/) in 2023, and exchanged to the [University of California San Diego](https://ucsd.edu/) in 2021 (University and Professional Studies program).
 
 ---------

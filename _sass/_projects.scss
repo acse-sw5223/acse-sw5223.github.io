@@ -1,0 +1,94 @@
+/* ========================================================================== 
+   Selected Projects
+   ========================================================================== */
+
+.project-card {
+  margin: 2.25em 0 3em;
+  padding: 1.5em;
+  border: 1px solid $border-color;
+  border-radius: $border-radius;
+  background: #fff;
+  box-shadow: 0 2px 8px rgba(#000, 0.04);
+
+  h2 {
+    margin: 0;
+    font-size: $type-size-4;
+  }
+
+  p,
+  li {
+    font-size: $type-size-6;
+  }
+
+  ul {
+    margin-bottom: 1.25em;
+  }
+}
+
+.project-card__header {
+  display: flex;
+  align-items: flex-start;
+  justify-content: space-between;
+  gap: 1em;
+  margin-bottom: 1em;
+}
+
+.project-card__meta {
+  margin: 0.35em 0 0;
+  color: mix(#fff, $gray, 20%);
+  font-size: $type-size-7 !important;
+  font-weight: bold;
+}
+
+.project-card__links {
+  flex: 0 0 auto;
+  margin: 0;
+  font-size: $type-size-7 !important;
+  white-space: nowrap;
+}
+
+.project-card__figure {
+  margin: 1.5em 0 0;
+  padding: 0.7em;
+  border: 1px solid $border-color;
+  border-radius: $border-radius;
+  background: #fafafa;
+
+  a {
+    display: block;
+  }
+
+  img {
+    display: block;
+    width: 100%;
+    height: auto;
+  }
+
+  figcaption {
+    margin-top: 0.75em;
+    color: mix(#fff, $gray, 20%);
+    font-size: $type-size-7;
+    line-height: 1.4;
+  }
+}
+
+.project-note {
+  margin-top: -1em;
+  color: mix(#fff, $gray, 20%);
+  font-size: $type-size-7;
+}
+
+@include breakpoint(max-width $small) {
+  .project-card {
+    padding: 1em;
+  }
+
+  .project-card__header {
+    display: block;
+  }
+
+  .project-card__links {
+    margin-top: 0.75em;
+    white-space: normal;
+  }
+}
